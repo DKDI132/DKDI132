@@ -1,0 +1,183 @@
+# DKDI132 👋
+> Pasjonat programowania • Backend Developer • AI/ML
+
+Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moje projekty i eksperymenty, które łączą technologię z praktyką.
+
+---
+
+## 📅 Dzisiejszy raport (Daily Standup)
+<!-- AUTO_CHANGELOG_START -->
+* 🤖 *Odpoczynek! Brak nowych commitów w ciągu ostatnich 24h.*
+<!-- AUTO_CHANGELOG_END -->
+
+---
+
+## 🚀 Ostatnie zmiany
+
+<!-- LOG_TABLE_START -->
+| 📦 Projekt | 🔧 Technologia | 📅 Data | ⚡ Status |
+|-----------|---|------|--------|
+| **TempMail** | Java Spring Boot + Python | 25 czerw. 2026 | 🟢 Aktywny |
+| **Auth System** | Java | 21 czerw. 2026 | 🔴 Offline |
+| **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
+| **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
+| **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
+<!-- LOG_TABLE_END -->
+
+---
+
+## 📂 Moje projekty
+
+<!-- PROJECT_tempmail_START -->
+### 📧 TempMail
+**Java Spring Boot + Python + Nginx**
+
+🚀 Nowoczesny system tymczasowej poczty elektronicznej. Twórz anonimowe adresy e-mail bez rejestracji.
+
+Możliwości:
+- 🔗 Generowanie losowych adresów e-mail
+- ⏱️ Automatyczne usuwanie po 24h
+- 🛡️ Rate limiting i ochrona przed spamem
+- ⚙️ Backend w Java Spring Boot
+- 🐍 SMTP handler w Pythonie
+- 🔄 Nginx jako reverse proxy
+
+```
+Repository: DKDI132/tempmail
+Language: HTML/CSS/JS + Java + Python
+Last update: 25 czerwca 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/tempmail) • 🌍 [Demo](https://tymczasowymail.pl)
+<!-- PROJECT_tempmail_END -->
+
+---
+
+<!-- PROJECT_polish-exam-coach-ai_START -->
+### 📚 Polish Exam Coach AI
+**Python + FastAPI + AI**
+
+Aplikacja webowa wspierająca przygotowanie do ustnej matury z języka polskiego. Projekt wykorzystuje sztuczną inteligencję do oceny odpowiedzi.
+
+Co oferuje:
+- 🎲 Losowanie pytań egzaminacyjnych
+- 📖 Baza opracowań teoretycznych
+- 🎤 Nagrywanie wypowiedzi ustnych
+- 🤖 AI ocena odpowiedzi w czasie rzeczywistym
+- 📊 Raport z wynikami i rekomendacjami
+
+```
+Repository: DKDI132/polish-exam-coach-ai
+Language: Python
+Last update: 21 czerwca 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/polish-exam-coach-ai)
+<!-- PROJECT_polish-exam-coach-ai_END -->
+
+---
+
+<!-- PROJECT_github-code-tester_START -->
+### 🧪 GitHub Code Tester
+**Python + Docker + MySQL**
+
+Mini system CI/CD do automatycznego testowania repozytoriów GitHub. Potężne narzędzie dla deweloperów.
+
+Komponenty:
+- 🔄 CLI do zarządzania testami
+- 🌐 FastAPI REST API
+- 📦 MySQL do przechowywania wyników
+- 🐳 Docker worker dla izolacji testów
+- ⏰ System kolejki do przetwarzania
+
+```
+Repository: DKDI132/github-code-tester
+Language: Python
+Last update: 21 czerwca 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/github-code-tester)
+<!-- PROJECT_github-code-tester_END -->
+
+---
+
+<!-- PROJECT_digit-recognition_START -->
+### 🤖 Digit Recognition
+**Python + Machine Learning**
+
+System klasyfikacji ręcznie pisanych cyfr z użyciem sieci neuronowej. Zaawansowany projekt łączący ML z web UI.
+
+Features:
+- 🎨 Interfejs webowy do rysowania cyfr
+- 🧠 Sieć neuronowa do predykcji
+- 📊 Wyświetlanie poziomu pewności
+- ⚡ FastAPI backend dla szybkich odpowiedzi
+
+```
+Repository: DKDI132/digit-recognition
+Language: Python
+Last update: 21 czerwca 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/digit-recognition)
+<!-- PROJECT_digit-recognition_END -->
+
+---
+
+<!-- PROJECT_auth-system_START -->
+### 🔐 Auth System
+**Java**
+
+Kompletny system uwierzytelniania i autoryzacji.
+
+Obsługuje:
+- ✅ Logowanie i rejestracja użytkowników
+- ✅ Zarządzanie dostępem i uprawnieniami
+- ✅ Tokenizacja i bezpieczeństwo sesji
+- ✅ Integracja z bazą danych
+
+```
+Repository: DKDI132/auth-system
+Language: Java
+Last update: 21 czerwca 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/auth-system)
+<!-- PROJECT_auth-system_END -->
+
+---
+<!-- PROJECTS_LIST_END -->
+
+## 🛠️ Technologie & Umiejętności
+
+### Języki programowania
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Frameworki & Biblioteki
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📊 Statystyki profilu
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=DKDI132&show_icons=true&theme=radical&hide_border=true" alt="Statystyki DKDI132" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DKDI132&layout=compact&theme=radical&hide_border=true" alt="Najpopularniejsze języki" height="150" />
+</p>
+
+---
+
+## 💬 Kontakt
+
+- **Discord:** `dkdi2`
+
+---
+*README aktualizowane automatycznie przez AI i GitHub Actions.*

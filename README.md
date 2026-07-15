@@ -213,7 +213,6 @@ Last update: 16 Jul. 2026
 ## 📊 Statystyki profilu
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=DKDI132&show_icons=true&theme=radical&hide_border=true" alt="Statystyki DKDI132" height="150" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DKDI132&layout=compact&theme=radical&hide_border=true" alt="Najpopularniejsze języki" height="150" />
 </p>
 

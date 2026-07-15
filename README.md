@@ -3,6 +3,8 @@
 
 Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moje projekty i eksperymenty, które łączą technologię z praktyką.
 
+> ⚡ **Ten profil aktualizuje się automatycznie!** Silnik oparty na sztucznej inteligencji, który codziennie generuje raporty i aktualizuje statystyki w tabeli, znajdziesz w repozytorium [github_dynamic](https://github.com/DKDI132/github_dynamic).
+
 ---
 
 ## 📅 Dzisiejszy raport (Daily Standup)
@@ -26,9 +28,8 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
-| **DKDI132** | Python | 15 Jul. 2026 | 🔴 Offline |
-| **github_dynamic** | Python | 15 Jul. 2026 | 🔴 Offline |
-| **test1** | Python | 15 Jul. 2026 | 🔴 Offline |
+| **README** | Markdown | 16 Jul. 2026 | 🟢 Aktywny |
+| **github_dynamic** | Python | 16 Jul. 2026 | 🟢 Aktywny |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -153,59 +154,41 @@ Last update: 21 czerwca 2026
 <!-- PROJECT_auth-system_END -->
 
 ---
-<!-- PROJECT_DKDI132_START -->
-### 📦 DKDI132
-**Python**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+<!-- PROJECT_README_START -->
+### 🪪 README
+🚀 Repozytorium profilowe zawierające pliki konfiguracyjne i automatycznie aktualizowaną stronę główną mojego profilu GitHub.
 
 Możliwości:
-- Cecha 1
-- Cecha 2
+- 📂 Główna strona profilu
+- ⚙️ Konfiguracja GitHub Actions do wywoływania API i commitowania zmian
 
 ```
 Repository: DKDI132/DKDI132
-Language: Python
-Last update: 15 Jul. 2026
+Last update: 16 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/DKDI132)
-<!-- PROJECT_DKDI132_END -->
+<!-- PROJECT_README_END -->
 ---
 <!-- PROJECT_github_dynamic_START -->
-### 📦 github_dynamic
+### ⚡ github_dynamic
 **Python**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+
+🚀 Silnik automatyzacji profilu GitHub. Aplikacja w FastAPI, która śledzi codzienną aktywność w moich repozytoriach, pobiera diffy z commitów i używa modelu **Gemini 3.5 Flash** do automatycznego generowania changeloga oraz aktualizowania statystyk.
 
 Możliwości:
-- Cecha 1
-- Cecha 2
+- 🔄 Automatyczne generowanie codziennego changeloga (Daily Standup) z udziałem AI
+- 📊 Automatyczna aktualizacja tabeli projektów z datą ostatniej aktywności i wykrywaniem języków
+- 🔒 Bezpieczna architektura oparta o GitHub Actions i dedykowany endpoint API
 
 ```
 Repository: DKDI132/github_dynamic
 Language: Python
-Last update: 15 Jul. 2026
+Last update: 16 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
 <!-- PROJECT_github_dynamic_END -->
----
-<!-- PROJECT_test1_START -->
-### 📦 test1
-**Python**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
-
-Możliwości:
-- Cecha 1
-- Cecha 2
-
-```
-Repository: DKDI132/test1
-Language: Python
-Last update: 15 Jul. 2026
-```
-
-🔗 [Otwórz projekt](https://github.com/DKDI132/test1)
-<!-- PROJECT_test1_END -->
 ---
 <!-- PROJECTS_LIST_END -->
 

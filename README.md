@@ -10,9 +10,9 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Dzisiejszy raport (Daily Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 🤖 W repozytorium **DKDI132** stworzyłem i skonfigurowałem przepływ GitHub Actions (`update_readme.yml`), który automatycznie i cyklicznie pobiera zaktualizowany plik README z zewnętrznego serwera, a następnie commituje zmiany.
-* 🚀 W projekcie **github_dynamic** znacznie rozbudowałem aplikację FastAPI – zaktualizowałem model AI do wersji `gemini-3.5-flash`, zaimplementowałem dynamiczne generowanie sekcji README dla nowych projektów, obsłużyłem stan braku aktywności oraz ulepszyłem zwracanie odpowiedzi w formacie Markdown.
-* 🧪 W repozytorium **test1** dodałem nowy plik `test.txt` z testową zawartością w celu weryfikacji mechanizmu śledzenia zmian.
+* 🛠️ Dodałem obsługę błędów dla zapytań do API GitHuba, wprowadzając weryfikację kodów statusu HTTP oraz bezpieczne dekodowanie JSON-a przy pobieraniu repozytoriów i commitów.  
+* 📝 Poprawiłem formatowanie wygenerowanego przez AI changelogu, zamieniając znaki nowej linii na sekwencje z podwójną spacją (`  \n`), co zapewnia prawidłowe renderowanie w pliku Markdown.  
+* 🤖 Doprecyzowałem instrukcje w promptie dla modelu AI, aby zapobiec zwracaniu zbędnych znaczników bloków kodu na końcu wygenerowanego podsumowania.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -29,7 +29,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
-| **github_dynamic** | Python | 16 Jul. 2026 | 🟢 Aktywny |
+| **github_dynamic** | Python | 17 Jul. 2026 | 🟢 Aktywny |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -184,7 +184,7 @@ Możliwości:
 ```
 Repository: DKDI132/github_dynamic
 Language: Python
-Last update: 16 Jul. 2026
+Last update: 17 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)

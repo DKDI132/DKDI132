@@ -28,7 +28,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
-| **README** | Markdown | 16 Jul. 2026 | 🟢 Aktywny |
+| **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 16 Jul. 2026 | 🟢 Aktywny |
 <!-- LOG_TABLE_END -->
 
@@ -223,4 +223,4 @@ Last update: 16 Jul. 2026
 - **Discord:** `dkdi2`
 
 ---
-*README aktualizowane automatycznie przez AI i GitHub Actions.*
+*README aktualizowane automatycznie przez AI i GitHub Actions.* --------->[github_dynamic](https://github.com/DKDI132/github_dynamic).

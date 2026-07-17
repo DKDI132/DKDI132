@@ -10,9 +10,9 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Dzisiejszy raport (Daily Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 🛠️ Dodałem obsługę błędów dla zapytań do API GitHuba, wprowadzając weryfikację kodów statusu HTTP oraz bezpieczne dekodowanie JSON-a przy pobieraniu repozytoriów i commitów.  
-* 📝 Poprawiłem formatowanie wygenerowanego przez AI changelogu, zamieniając znaki nowej linii na sekwencje z podwójną spacją (`  \n`), co zapewnia prawidłowe renderowanie w pliku Markdown.  
-* 🤖 Doprecyzowałem instrukcje w promptie dla modelu AI, aby zapobiec zwracaniu zbędnych znaczników bloków kodu na końcu wygenerowanego podsumowania.
+📧 **MailAsistant**: Zainicjowałem nowy projekt w Spring Boot, konfigurując strukturę zależności Maven (w tym MySQL, Spring Security i OAuth2 Client), połączenie z bazą danych oraz tworząc pierwszą encję bazodanową `User`.  
+🐍 **github_dynamic**: Zabezpieczyłem skrypt przed awariami API GitHuba, dodając obsługę błędów połączeń, weryfikację statusów HTTP oraz bezpieczne dekodowanie odpowiedzi JSON.  
+📝 **github_dynamic**: Usprawniłem proces generowania podsumowań i README, dodając automatyczne aktualizowanie daty dla aktywnych projektów oraz poprawiając formatowanie znaków nowej linii w tekście od AI.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -30,6 +30,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 17 Jul. 2026 | 🟢 Aktywny |
+| **MailAsistant** | Java | 17 Jul. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -189,6 +190,24 @@ Last update: 17 Jul. 2026
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
 <!-- PROJECT_github_dynamic_END -->
+---
+<!-- PROJECT_MailAsistant_START -->
+### 📦 MailAsistant
+**Java**
+🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+
+Możliwości:
+- Cecha 1
+- Cecha 2
+
+```
+Repository: DKDI132/MailAsistant
+Language: Java
+Last update: 17 Jul. 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/MailAsistant)
+<!-- PROJECT_MailAsistant_END -->
 ---
 <!-- PROJECTS_LIST_END -->
 

@@ -24,7 +24,6 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | 📦 Projekt | 🔧 Technologia | 📅 Data | ⚡ Status |
 |-----------|---|------|--------|
 | **TempMail** | Java Spring Boot + Python | 25 czerw. 2026 | 🟢 Aktywny |
-| **Auth System** | Java | 21 czerw. 2026 | 🔴 Offline |
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
@@ -130,30 +129,6 @@ Last update: 21 czerwca 2026
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/digit-recognition)
 <!-- PROJECT_digit-recognition_END -->
-
----
-
-<!-- PROJECT_auth-system_START -->
-### 🔐 Auth System
-**Java**
-
-Kompletny system uwierzytelniania i autoryzacji.
-
-Obsługuje:
-- ✅ Logowanie i rejestracja użytkowników
-- ✅ Zarządzanie dostępem i uprawnieniami
-- ✅ Tokenizacja i bezpieczeństwo sesji
-- ✅ Integracja z bazą danych
-
-```
-Repository: DKDI132/auth-system
-Language: Java
-Last update: 21 czerwca 2026
-```
-
-🔗 [Otwórz projekt](https://github.com/DKDI132/auth-system)
-<!-- PROJECT_auth-system_END -->
-
 ---
 <!-- PROJECT_README_START -->
 ### 🪪 README

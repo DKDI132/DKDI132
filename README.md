@@ -25,7 +25,6 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 17 Jul. 2026 | 🟢 Aktywny |
-| **MailAsistant** | Java | 17 Jul. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -161,24 +160,6 @@ Last update: 17 Jul. 2026
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
 <!-- PROJECT_github_dynamic_END -->
----
-<!-- PROJECT_MailAsistant_START -->
-### 📦 MailAsistant
-**Java**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
-
-Możliwości:
-- Cecha 1
-- Cecha 2
-
-```
-Repository: DKDI132/MailAsistant
-Language: Java
-Last update: 17 Jul. 2026
-```
-
-🔗 [Otwórz projekt](https://github.com/DKDI132/MailAsistant)
-<!-- PROJECT_MailAsistant_END -->
 ---
 <!-- PROJECTS_LIST_END -->
 

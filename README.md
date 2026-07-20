@@ -10,7 +10,9 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 🤖 Błąd generowania dzisiejszego logu przez AI.
+* ⚙️ **Zaprojektowałem i zrefaktoryzowałem** backend w FastAPI (`main.py`), dodając obsługę pliku `.env.readme`, ulepszone pobieranie diffów bezpośrednio z API GitHub (z rozszerzonym oknem analizy do 168 godzin) oraz odporną na błędy obsługę odpowiedzi JSON.  
+* 🤖 **Zintegrowałem model Gemini 3.5 Flash** do generowania automatycznych podsumowań oraz napisałem zaawansowany parser Markdown, który dynamicznie aktualizuje tabelę aktywności projektów oraz automatycznie generuje szablony sekcji dla nowo wykrytych repozytoriów.  
+* 📝 **Przygotowałem strukturę i konfigurację projektu**, tworząc od zera plik `requirements.txt`, szczegółowy opis architektury w `README.md` oraz precyzyjny plik `.gitignore`, który zabezpiecza lokalne sekrety środowiskowe `.env.*`.
 
 <!-- AUTO_CHANGELOG_END -->
 

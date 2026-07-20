@@ -3,11 +3,11 @@
 
 Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moje projekty i eksperymenty, które łączą technologię z praktyką.
 
-> ⚡ **Ten profil aktualizuje się automatycznie!** Silnik oparty na sztucznej inteligencji, który codziennie generuje raporty i aktualizuje statystyki w tabeli, znajdziesz w repozytorium [github_dynamic](https://github.com/DKDI132/github_dynamic).
+> ⚡ **Ten profil aktualizuje się automatycznie!** Silnik oparty na sztucznej inteligencji, który raz w tygodniu generuje raporty i aktualizuje statystyki w tabeli, znajdziesz w repozytorium [github_dynamic](https://github.com/DKDI132/github_dynamic).
 
 ---
 
-## 📅 Dzisiejszy raport (Daily Standup)
+## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
 * 🤖 Błąd generowania dzisiejszego logu przez AI.

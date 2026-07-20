@@ -10,9 +10,10 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* ⚙️ **Zaprojektowałem i zrefaktoryzowałem** backend w FastAPI (`main.py`), dodając obsługę pliku `.env.readme`, ulepszone pobieranie diffów bezpośrednio z API GitHub (z rozszerzonym oknem analizy do 168 godzin) oraz odporną na błędy obsługę odpowiedzi JSON.  
-* 🤖 **Zintegrowałem model Gemini 3.5 Flash** do generowania automatycznych podsumowań oraz napisałem zaawansowany parser Markdown, który dynamicznie aktualizuje tabelę aktywności projektów oraz automatycznie generuje szablony sekcji dla nowo wykrytych repozytoriów.  
-* 📝 **Przygotowałem strukturę i konfigurację projektu**, tworząc od zera plik `requirements.txt`, szczegółowy opis architektury w `README.md` oraz precyzyjny plik `.gitignore`, który zabezpiecza lokalne sekrety środowiskowe `.env.*`.
+🚀 **github_dynamic**: Zaprojektowałem i wdrożyłem od zera serwer FastAPI, który pobiera commity z moich repozytoriów z ostatnich 7 dni, generuje podsumowania zmian za pomocą Gemini API i automatycznie aktualizuje statystyki profilu.  
+⚙️ **github_dynamic**: Udoskonaliłem logikę parsowania zmian gita, poprawiłem obsługę błędów API oraz dodałem system automatycznego wykrywania nowych projektów i generowania dla nich gotowych szablonów opisów w tabeli aktywności.  
+📝 **github_dynamic**: Stworzyłem szczegółową dokumentację projektu w pliku README.md, opisując bezstanową architekturę przepływu danych z GitHub Actions oraz krok po kroku wyjaśniając konfigurację i lokalne uruchomienie.  
+🛠️ **github_dynamic**: Skonfigurowałem środowisko uruchomieniowe poprzez dodanie pliku `requirements.txt` oraz precyzyjne określenie reguł w `.gitignore` w celu ochrony plików testowych i sekretów środowiskowych `.env`.
 
 <!-- AUTO_CHANGELOG_END -->
 

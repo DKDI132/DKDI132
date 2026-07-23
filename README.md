@@ -10,7 +10,10 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 🤖 Błąd generowania dzisiejszego logu przez AI.
+📧 mail_asistant Stworzyłem od podstaw projekt inteligentnego asystenta pocztowego opartego na FastAPI, implementując obsługę bazy SQLite z SQLAlchemy oraz dedykowany wzorzec repozytorium do zarządzania wiadomościami.  
+🤖 mail_asistant Zintegrowałem model Gemini API (gemini-2.5-flash) do automatycznego streszczania e-maili i oceny ich ważności, dodałem powiadomienia push przez ntfy.sh dla kluczowych wiadomości oraz wdrożyłem asynchroniczny scheduler do automatycznego sprawdzania skrzynki.  
+⚙️ github_dynamic Rozszerzyłem zakres analizy commitów z 24 do 168 godzin w celu generowania podsumowań tygodniowych, dodałem obsługę błędów zapytań API oraz zabezpieczyłem parsowanie odpowiedzi JSON.  
+📝 github_dynamic Usprawniłem automatyczną aktualizację pliku README, wprowadzając odświeżanie daty ostatniej modyfikacji dla aktywnych projektów oraz naprawiając formatowanie znaków nowej linii w changelogu.
 
 <!-- AUTO_CHANGELOG_END -->
 

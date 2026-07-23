@@ -10,10 +10,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-🚀 **github_dynamic**: Zaprojektowałem i wdrożyłem od zera serwer FastAPI, który pobiera commity z moich repozytoriów z ostatnich 7 dni, generuje podsumowania zmian za pomocą Gemini API i automatycznie aktualizuje statystyki profilu.  
-⚙️ **github_dynamic**: Udoskonaliłem logikę parsowania zmian gita, poprawiłem obsługę błędów API oraz dodałem system automatycznego wykrywania nowych projektów i generowania dla nich gotowych szablonów opisów w tabeli aktywności.  
-📝 **github_dynamic**: Stworzyłem szczegółową dokumentację projektu w pliku README.md, opisując bezstanową architekturę przepływu danych z GitHub Actions oraz krok po kroku wyjaśniając konfigurację i lokalne uruchomienie.  
-🛠️ **github_dynamic**: Skonfigurowałem środowisko uruchomieniowe poprzez dodanie pliku `requirements.txt` oraz precyzyjne określenie reguł w `.gitignore` w celu ochrony plików testowych i sekretów środowiskowych `.env`.
+* 🤖 Błąd generowania dzisiejszego logu przez AI.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -29,7 +26,8 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
-| **github_dynamic** | Python | 20 Jul. 2026 | 🟢 Aktywny |
+| **github_dynamic** | Python | 23 Jul. 2026 | 🟢 Aktywny |
+| **mail_asistant** | Python | 23 Jul. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -160,11 +158,29 @@ Możliwości:
 ```
 Repository: DKDI132/github_dynamic
 Language: Python
-Last update: 20 Jul. 2026
+Last update: 23 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
 <!-- PROJECT_github_dynamic_END -->
+---
+<!-- PROJECT_mail_asistant_START -->
+### 📦 mail_asistant
+**Python**
+🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+
+Możliwości:
+- Cecha 1
+- Cecha 2
+
+```
+Repository: DKDI132/mail_asistant
+Language: Python
+Last update: 23 Jul. 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/mail_asistant)
+<!-- PROJECT_mail_asistant_END -->
 ---
 <!-- PROJECTS_LIST_END -->
 

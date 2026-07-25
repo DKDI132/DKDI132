@@ -10,10 +10,11 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-📧 mail_asistant Stworzyłem od podstaw projekt inteligentnego asystenta pocztowego opartego na FastAPI, implementując obsługę bazy SQLite z SQLAlchemy oraz dedykowany wzorzec repozytorium do zarządzania wiadomościami.  
-🤖 mail_asistant Zintegrowałem model Gemini API (gemini-2.5-flash) do automatycznego streszczania e-maili i oceny ich ważności, dodałem powiadomienia push przez ntfy.sh dla kluczowych wiadomości oraz wdrożyłem asynchroniczny scheduler do automatycznego sprawdzania skrzynki.  
-⚙️ github_dynamic Rozszerzyłem zakres analizy commitów z 24 do 168 godzin w celu generowania podsumowań tygodniowych, dodałem obsługę błędów zapytań API oraz zabezpieczyłem parsowanie odpowiedzi JSON.  
-📝 github_dynamic Usprawniłem automatyczną aktualizację pliku README, wprowadzając odświeżanie daty ostatniej modyfikacji dla aktywnych projektów oraz naprawiając formatowanie znaków nowej linii w changelogu.
+📧 mail_asistant: Zaprojektowałem i stworzyłem od podstaw aplikację asystenta pocztowego w FastAPI z lokalną bazą SQLite (SQLAlchemy), implementując warstwę repozytorium oraz asynchroniczny harmonogram cyklicznego pobierania wiadomości przez IMAP.  
+  
+🤖 mail_asistant: Zintegrowałem analizę wiadomości z API Gemini (`gemini-2.5-flash`) w celu automatycznego generowania ustrukturyzowanych podsumowań oraz oceny ważności maili, a także dodałem wysyłanie natychmiastowych powiadomień push dla kluczowych wiadomości za pomocą usługi `ntfy.sh`.  
+  
+⚙️ github_dynamic: Zmodyfikowałem przedział czasowy wyszukiwania commitów z ostatnich 24 godzin na 168 godzin (tydzień) oraz dostosowałem instrukcje systemowe dla sztucznej inteligencji, aby generowała zwięzłe podsumowania w ujęciu tygodniowym zamiast dziennego.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -29,8 +30,8 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
-| **github_dynamic** | Python | 23 Jul. 2026 | 🟢 Aktywny |
-| **mail_asistant** | Python | 23 Jul. 2026 | 🔴 Offline |
+| **github_dynamic** | Python | 25 Jul. 2026 | 🟢 Aktywny |
+| **mail_asistant** | Python | 25 Jul. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -161,7 +162,7 @@ Możliwości:
 ```
 Repository: DKDI132/github_dynamic
 Language: Python
-Last update: 23 Jul. 2026
+Last update: 25 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
@@ -179,7 +180,7 @@ Możliwości:
 ```
 Repository: DKDI132/mail_asistant
 Language: Python
-Last update: 23 Jul. 2026
+Last update: 25 Jul. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/mail_asistant)

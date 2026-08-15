@@ -19,7 +19,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 <!-- LOG_TABLE_START -->
 | 📦 Projekt | 🔧 Technologia | 📅 Data | ⚡ Status |
 |-----------|---|------|--------|
-| **TempMail** | Java Spring Boot + Python | 25 czerw. 2026 | 🟢 Aktywny |
+| **TempMail** | Java Spring Boot + Python | 25 czerw. 2026 | 🔴 Offline |
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
@@ -52,7 +52,7 @@ Language: HTML/CSS/JS + Java + Python
 Last update: 25 czerwca 2026
 ```
 
-🔗 [Otwórz projekt](https://github.com/DKDI132/tempmail) • 🌍 [Demo](https://tymczasowymail.pl)
+🔗 [Otwórz projekt](https://github.com/DKDI132/tempmail)
 <!-- PROJECT_tempmail_END -->
 
 ---

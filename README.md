@@ -29,8 +29,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 25 Jul. 2026 | 🟢 Aktywny |
-| **mail_asistant** | Python | 25 Jul. 2026 | 🔴 Offline |
-| **budget_manager** | HTML | 18 Aug. 2026 | 🔴 Offline |
+| **budget_manager** | Python | 18 Aug. 2026 | 🔴 Offline |
 | **E2eChat** | Java | 18 Aug. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
@@ -167,24 +166,6 @@ Last update: 25 Jul. 2026
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
 <!-- PROJECT_github_dynamic_END -->
----
-<!-- PROJECT_mail_asistant_START -->
-### 📦 mail_asistant
-**Python**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
-
-Możliwości:
-- Cecha 1
-- Cecha 2
-
-```
-Repository: DKDI132/mail_asistant
-Language: Python
-Last update: 25 Jul. 2026
-```
-
-🔗 [Otwórz projekt](https://github.com/DKDI132/mail_asistant)
-<!-- PROJECT_mail_asistant_END -->
 ---
 <!-- PROJECT_budget_manager_START -->
 ### 📦 budget_manager

@@ -178,7 +178,7 @@ Możliwości:
 
 ```
 Repository: DKDI132/budget_manager
-Language: HTML
+Language: Python
 Last update: 18 Aug. 2026
 ```
 

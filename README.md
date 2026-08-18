@@ -9,7 +9,11 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
-*🤖 Status: Brak nowych commitów w ciągu ostatnich 24h. Czas na odpoczynek!* ☕
+
+* 📊 budget_manager: Stworzyłem od zera i zabezpieczyłem mobilną aplikację webową zintegrowaną z Google Gemini AI do automatycznej analizy paragonów, dodając obsługę bazy SQLite WAL, system logowania JWT oparty na bezpiecznym porównywaniu haszy (`hmac.compare_digest`), rate limiting (SlowAPI) oraz skrypt automatycznego wdrożenia `update.py`.  
+* 💬 E2eChat: Zaprojektowałem i zaimplementowałem od podstaw bezpieczny, działający w pamięci RAM czat E2EE w Spring Boot, tworząc kompletną architekturę WebSocketów, modeli DTO, obsługę pokoi oraz mechanizm akceptacji nowych użytkowników przez administratora.  
+* 📧 tempmail: Zaktualizowałem dokumentację w pliku README.md, usuwając nieaktualne informacje o adresie hostowania projektu.
+
 <!-- AUTO_CHANGELOG_END -->
 
 ---
@@ -19,13 +23,15 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 <!-- LOG_TABLE_START -->
 | 📦 Projekt | 🔧 Technologia | 📅 Data | ⚡ Status |
 |-----------|---|------|--------|
-| **TempMail** | Java Spring Boot + Python | 25 czerw. 2026 | 🔴 Offline |
+| **TempMail** | Java Spring Boot + Python | 18 Aug. 2026 | 🔴 Offline |
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 25 Jul. 2026 | 🟢 Aktywny |
 | **mail_asistant** | Python | 25 Jul. 2026 | 🔴 Offline |
+| **budget_manager** | HTML | 18 Aug. 2026 | 🔴 Offline |
+| **E2eChat** | Java | 18 Aug. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -49,7 +55,7 @@ Możliwości:
 ```
 Repository: DKDI132/tempmail
 Language: HTML/CSS/JS + Java + Python
-Last update: 25 czerwca 2026
+Last update: 18 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/tempmail)
@@ -179,6 +185,42 @@ Last update: 25 Jul. 2026
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/mail_asistant)
 <!-- PROJECT_mail_asistant_END -->
+---
+<!-- PROJECT_budget_manager_START -->
+### 📦 budget_manager
+**HTML**
+🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+
+Możliwości:
+- Cecha 1
+- Cecha 2
+
+```
+Repository: DKDI132/budget_manager
+Language: HTML
+Last update: 18 Aug. 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/budget_manager)
+<!-- PROJECT_budget_manager_END -->
+---
+<!-- PROJECT_E2eChat_START -->
+### 📦 E2eChat
+**Java**
+🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+
+Możliwości:
+- Cecha 1
+- Cecha 2
+
+```
+Repository: DKDI132/E2eChat
+Language: Java
+Last update: 18 Aug. 2026
+```
+
+🔗 [Otwórz projekt](https://github.com/DKDI132/E2eChat)
+<!-- PROJECT_E2eChat_END -->
 ---
 <!-- PROJECTS_LIST_END -->
 

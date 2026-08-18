@@ -20,7 +20,7 @@ jobs:
           MY_SECRET: ${{ secrets.README_API_SECRET }}
         run: |
           curl -H "token: $MY_SECRET" \
-            https://tymczasowymail.pl/zmiana > README.md
+            https://dynamic.tymczasowymail.pl/zmiana > README.md
 
 
       - name: Commit and push if changed

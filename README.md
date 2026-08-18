@@ -10,9 +10,10 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 📊 budget_manager: Stworzyłem od zera i zabezpieczyłem mobilną aplikację webową zintegrowaną z Google Gemini AI do automatycznej analizy paragonów, dodając obsługę bazy SQLite WAL, system logowania JWT oparty na bezpiecznym porównywaniu haszy (`hmac.compare_digest`), rate limiting (SlowAPI) oraz skrypt automatycznego wdrożenia `update.py`.  
-* 💬 E2eChat: Zaprojektowałem i zaimplementowałem od podstaw bezpieczny, działający w pamięci RAM czat E2EE w Spring Boot, tworząc kompletną architekturę WebSocketów, modeli DTO, obsługę pokoi oraz mechanizm akceptacji nowych użytkowników przez administratora.  
-* 📧 tempmail: Zaktualizowałem dokumentację w pliku README.md, usuwając nieaktualne informacje o adresie hostowania projektu.
+* 📱 **budget_manager**: Zaprojektowałem i wdrożyłem aplikację webową do zarządzania wydatkami, wykorzystując FastAPI z zabezpieczeniami JWT i Rate Limiterem oraz integrując model Google Gemini AI do automatycznego odczytywania pozycji z paragonów.  
+* 🚀 **budget_manager**: Stworzyłem skrypt webhooka aktualizacyjnego (`update.py`) i przepływ GitHub Actions, co pozwala na automatyczne wdrażanie kodu bezpośrednio na serwer domowy po pushu do gałęzi main.  
+* 🔐 **E2eChat**: Zbudowałem od podstaw backend bezpiecznego czatu E2EE (Zero-Knowledge, RAM-only) w Spring Boot, implementując obsługę WebSocketów, zarządzanie pokojami w pamięci podręcznej oraz system zatwierdzania nowych użytkowników przez administratora pokoju.  
+* 📝 **tempmail**: Zaktualizowałem dokumentację w pliku `README.md`, usuwając z opisu bezpośrednie odniesienie do adresu produkcyjnego aplikacji pocztowej.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -23,14 +24,14 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 <!-- LOG_TABLE_START -->
 | 📦 Projekt | 🔧 Technologia | 📅 Data | ⚡ Status |
 |-----------|---|------|--------|
-| **TempMail** | Java Spring Boot + Python | 18 Aug. 2026 | 🔴 Offline |
+| **TempMail** | Java Spring Boot + Python | 19 Aug. 2026 | 🔴 Offline |
 | **Digit Recognition** | Python + AI | 21 czerw. 2026 | 🔴 Offline |
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
 | **github_dynamic** | Python | 25 Jul. 2026 | 🟢 Aktywny |
-| **budget_manager** | Python | 18 Aug. 2026 | 🔴 Offline |
-| **E2eChat** | Java | 18 Aug. 2026 | 🔴 Offline |
+| **budget_manager** | Python | 19 Aug. 2026 | 🔴 Offline |
+| **E2eChat** | Java | 19 Aug. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -54,7 +55,7 @@ Możliwości:
 ```
 Repository: DKDI132/tempmail
 Language: HTML/CSS/JS + Java + Python
-Last update: 18 Aug. 2026
+Last update: 19 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/tempmail)
@@ -179,7 +180,7 @@ Możliwości:
 ```
 Repository: DKDI132/budget_manager
 Language: Python
-Last update: 18 Aug. 2026
+Last update: 19 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/budget_manager)
@@ -197,7 +198,7 @@ Możliwości:
 ```
 Repository: DKDI132/E2eChat
 Language: Java
-Last update: 18 Aug. 2026
+Last update: 19 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/E2eChat)

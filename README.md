@@ -3,16 +3,16 @@
 
 Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moje projekty i eksperymenty, które łączą technologię z praktyką.
 
-> ⚡ **Ten profil aktualizuje się automatycznie!** Silnik oparty na sztucznej inteligencji, który raz w tygodniu generuje raporty i aktualizuje statystyki w tabeli, znajdziesz w repozytorium [github_dynamic](https://github.com/DKDI132/github_dynamic).
+> ⚡ **Ten profil aktualizuje się automatycznie!** Silnik oparty na sztucznej inteligencji, który raz w tygodniu generuje raporty i aktualizuje statystyki w tabeli, znajdziesz w repozytorium [gi[...]
 
 ---
 
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 📱 **budget_manager**: Zaprojektowałem i wdrożyłem aplikację webową do zarządzania wydatkami, wykorzystując FastAPI z zabezpieczeniami JWT i Rate Limiterem oraz integrując model Google Gemini AI do automatycznego odczytywania pozycji z paragonów.  
-* 🚀 **budget_manager**: Stworzyłem skrypt webhooka aktualizacyjnego (`update.py`) i przepływ GitHub Actions, co pozwala na automatyczne wdrażanie kodu bezpośrednio na serwer domowy po pushu do gałęzi main.  
-* 🔐 **E2eChat**: Zbudowałem od podstaw backend bezpiecznego czatu E2EE (Zero-Knowledge, RAM-only) w Spring Boot, implementując obsługę WebSocketów, zarządzanie pokojami w pamięci podręcznej oraz system zatwierdzania nowych użytkowników przez administratora pokoju.  
+* 📱 **budget_manager**: Zaprojektowałem i wdrożyłem aplikację webową do zarządzania wydatkami, wykorzystując FastAPI z zabezpieczeniami JWT i Rate Limiterem oraz integrując model Google[...]
+* 🚀 **budget_manager**: Stworzyłem skrypt webhooka aktualizacyjnego (`update.py`) i przepływ GitHub Actions, co pozwala na automatyczne wdrażanie kodu bezpośrednio na serwer domowy po pushu[...]
+* 🔐 **E2eChat**: Zbudowałem od podstaw backend bezpiecznego czatu E2EE (Zero-Knowledge, RAM-only) w Spring Boot, implementując obsługę WebSocketów, zarządzanie pokojami w pamięci podręc[...]
 * 📝 **tempmail**: Zaktualizowałem dokumentację w pliku `README.md`, usuwając z opisu bezpośrednie odniesienie do adresu produkcyjnego aplikacji pocztowej.
 
 <!-- AUTO_CHANGELOG_END -->
@@ -152,7 +152,7 @@ Last update: -----------
 ### ⚡ github_dynamic
 **Python**
 
-🚀 Silnik automatyzacji profilu GitHub. Aplikacja w FastAPI, która śledzi codzienną aktywność w moich repozytoriach, pobiera diffy z commitów i używa modelu **Gemini 3.5 Flash** do automatycznego generowania changeloga oraz aktualizowania statystyk.
+🚀 Silnik automatyzacji profilu GitHub. Aplikacja w FastAPI, która śledzi codzienną aktywność w moich repozytoriach, pobiera diffy z commitów i używa modelu **Gemini 3.5 Flash** do autom[...]
 
 Możliwości:
 - 🔄 Automatyczne generowanie codziennego changeloga (Daily Standup) z udziałem AI
@@ -169,17 +169,22 @@ Last update: 25 Jul. 2026
 <!-- PROJECT_github_dynamic_END -->
 ---
 <!-- PROJECT_budget_manager_START -->
-### 📦 budget_manager
-**HTML**
-🚀 PROJEKT NIE JEST JESZCZE SKONCZONY CO ZA TYM IDZIE OPIS ZOSTAL AUTOMATYCZNIE WYGENEROWANY I ZOSTANIE UZUPELNIONY PO DOPROWADZENIU DO BETY
+### 💰 budget_manager
+**Python + FastAPI + AI**
+
+Inteligentna aplikacja do zarządzania wspólnymi wydatkami i rozliczania paragonów między współlokatorami z wykorzystaniem **Google Gemini AI**.
 
 Możliwości:
-- Cecha 1
-- Cecha 2
+- 🤖 Automatyczny odczyt paragonów za pomocą AI (foto aparatem)
+- ⚖️ Automatyczne bilansowanie wydatków między lokatorami
+- 📱 Interfejs Mobile-First z bottom nav i integracją aparatu
+- 🛡️ Bezpieczeństwo JWT, Rate Limiting, ochrona przed botami
+- ⚡ Wydajny SQLite z WAL Mode
+- 🔄 CI/CD z GitHub Actions dla Raspberry Pi
 
 ```
 Repository: DKDI132/budget_manager
-Language: Python
+Language: Python + HTML
 Last update: 19 Aug. 2026
 ```
 

@@ -10,10 +10,9 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
 
-* 📱 **budget_manager**: Zaprojektowałem i wdrożyłem aplikację webową do zarządzania wydatkami, wykorzystując FastAPI z zabezpieczeniami JWT i Rate Limiterem oraz integrując model Google[...]
-* 🚀 **budget_manager**: Stworzyłem skrypt webhooka aktualizacyjnego (`update.py`) i przepływ GitHub Actions, co pozwala na automatyczne wdrażanie kodu bezpośrednio na serwer domowy po pushu[...]
-* 🔐 **E2eChat**: Zbudowałem od podstaw backend bezpiecznego czatu E2EE (Zero-Knowledge, RAM-only) w Spring Boot, implementując obsługę WebSocketów, zarządzanie pokojami w pamięci podręc[...]
-* 📝 **tempmail**: Zaktualizowałem dokumentację w pliku `README.md`, usuwając z opisu bezpośrednie odniesienie do adresu produkcyjnego aplikacji pocztowej.
+* 🧾 **budget_manager**: Stworzyłem od podstaw asynchroniczną aplikację webową (FastAPI, SQLite WAL) do rozliczania paragonów z użyciem Google Gemini AI, wzbogacając ją o wspólną listę zakupów, automatyczne wdrożenia CI/CD oraz autorski system bezprzewodowego streamowania ekranu na TV przy użyciu WebRTC i WebSockets.  
+* 💬 **E2eChat**: Zainicjalizowałem nowy projekt bezpiecznego czatu w Spring Boot (Zero-Knowledge, RAM-only), implementując kompletną obsługę WebSocketów, zarządzanie pokojami oraz kryptograficzną logikę zatwierdzania użytkowników opartą na protokole ECDH.  
+* 🔒 **github_dynamic**: Zabezpieczyłem endpoint aktualizacyjny przed atakami typu timing attack, zastępując standardowe porównanie tokenu w nagłówku bezpieczną weryfikacją za pomocą funkcji `hmac.compare_digest`.
 
 <!-- AUTO_CHANGELOG_END -->
 
@@ -29,9 +28,9 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 | **Polish Exam Coach AI** | Python + FastAPI | 21 czerw. 2026 | 🔴 Offline |
 | **GitHub Code Tester** | Python + Docker | 21 czerw. 2026 | 🔴 Offline |
 | **README** | Markdown | --------- | 🟢 Aktywny |
-| **github_dynamic** | Python | 25 Jul. 2026 | 🟢 Aktywny |
-| **budget_manager** | Python | 19 Aug. 2026 | 🔴 Offline |
-| **E2eChat** | Java | 19 Aug. 2026 | 🔴 Offline |
+| **github_dynamic** | Python | 23 Aug. 2026 | 🟢 Aktywny |
+| **budget_manager** | Python | 23 Aug. 2026 | 🔴 Offline |
+| **E2eChat** | Java | 23 Aug. 2026 | 🔴 Offline |
 <!-- LOG_TABLE_END -->
 
 ---
@@ -162,7 +161,7 @@ Możliwości:
 ```
 Repository: DKDI132/github_dynamic
 Language: Python
-Last update: 25 Jul. 2026
+Last update: 23 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/github_dynamic)
@@ -185,7 +184,7 @@ Możliwości:
 ```
 Repository: DKDI132/budget_manager
 Language: Python + HTML
-Last update: 19 Aug. 2026
+Last update: 23 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/budget_manager)
@@ -203,7 +202,7 @@ Możliwości:
 ```
 Repository: DKDI132/E2eChat
 Language: Java
-Last update: 19 Aug. 2026
+Last update: 23 Aug. 2026
 ```
 
 🔗 [Otwórz projekt](https://github.com/DKDI132/E2eChat)

@@ -9,11 +9,7 @@ Rozwijam się w **Java**, **Python** i **Web Development**. Tutaj znajdziesz moj
 
 ## 📅 Tygodniowy raport (Standup)
 <!-- AUTO_CHANGELOG_START -->
-
-* 🧾 **budget_manager**: Stworzyłem od podstaw asynchroniczną aplikację webową (FastAPI, SQLite WAL) do rozliczania paragonów z użyciem Google Gemini AI, wzbogacając ją o wspólną listę zakupów, automatyczne wdrożenia CI/CD oraz autorski system bezprzewodowego streamowania ekranu na TV przy użyciu WebRTC i WebSockets.  
-* 💬 **E2eChat**: Zainicjalizowałem nowy projekt bezpiecznego czatu w Spring Boot (Zero-Knowledge, RAM-only), implementując kompletną obsługę WebSocketów, zarządzanie pokojami oraz kryptograficzną logikę zatwierdzania użytkowników opartą na protokole ECDH.  
-* 🔒 **github_dynamic**: Zabezpieczyłem endpoint aktualizacyjny przed atakami typu timing attack, zastępując standardowe porównanie tokenu w nagłówku bezpieczną weryfikacją za pomocą funkcji `hmac.compare_digest`.
-
+*🤖 Status: Brak nowych commitów w ciągu ostatnich 24h. Czas na odpoczynek!* ☕
 <!-- AUTO_CHANGELOG_END -->
 
 ---
